@@ -1,0 +1,6 @@
+*.zip
+local.properties
+build/
+.gradle/
+.idea/
+*.apk
